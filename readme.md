@@ -1,4 +1,4 @@
-# Payment Gateway Usng Node.js
+# Payment Gateway Using Node.js
 
 - Install [Node.js](https://nodejs.org/en/)
 
